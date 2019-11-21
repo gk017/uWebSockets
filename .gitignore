@@ -12,3 +12,9 @@
 *.la
 *.a
 
+BroadcastingEchoServer
+EchoServer
+EchoServerThreaded
+HelloWorld
+HelloWorldThreaded
+
